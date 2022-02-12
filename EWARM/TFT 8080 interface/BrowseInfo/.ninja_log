@@ -1,0 +1,124 @@
+# ninja log v5
+12	164	6660065740000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.xcl	5f93086236ef8723
+1877	2037	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c_ex.xcl	b85b9f2a755f561b
+5	179	6660065740000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/stm32f7xx_hal_msp.xcl	51b6b0a46cb57c81
+10884	11703	6660065864703297	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim.pbi	8f609c7168f8360b
+173	372	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/stm32f7xx_it.xcl	68174c6e487d6852
+1518	1678	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_exti.xcl	cb2dffb31a0b455
+186	385	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/CMSIS/system_stm32f7xx.xcl	6cf4b7a88ed213fe
+826	1468	6663746485485241	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1108	1294	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma_ex.xcl	477aa5c8c37c1170
+1699	1868	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c.xcl	c56a3261e3bc57b1
+733	914	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_cortex.xcl	4a327aab7c42dda9
+1504	1690	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma.xcl	6896987d45f6e047
+1304	1494	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash.xcl	7314807e8a6ec9cb
+721	902	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal.xcl	46d564e2f30f607e
+1316	1508	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash_ex.xcl	ad6b16bc7f2743da
+3550	4411	6660065791799771	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/LIB/menu.pbi	f118e96403c4fc20
+2379	3359	6660065781256944	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/stm32f7xx_hal_msp.pbi	fb0ac384f73f21d2
+1097	1307	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_gpio.xcl	4b3264d344086ba3
+12451	13063	6660065878316858	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr_ex.pbi	5032e09574ac98d8
+2046	2191	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr.xcl	3dd4f6fc29e8f6b3
+2034	2178	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr_ex.xcl	f5e66e6b7debb1ac
+3364	3540	6660065780000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim.xcl	f4af74cea72e8c4b
+6313	7034	6660065818028192	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/sdcard/sdcard.pbi	bb96d3014ea3fd8a
+3506	3663	6660065780000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim_ex.xcl	68d4c3dab1cb8375
+1475	2004	6663746490835035	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+1864	2026	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc.xcl	fc488d45d9c8751c
+381	537	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/ffunicode.xcl	7dc20130001d705
+4574	4803	6660065795707914	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/ffunicode.pbi	a3cdb39c99236d1f
+5	823	6663746479006401	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+7119	7854	6660065826226254	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c_ex.pbi	10f60bd8f8b1b0bf
+1687	1854	6660065760000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc_ex.xcl	fe259803dae88092
+3672	4570	6660065793274435	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/CMSIS/system_stm32f7xx.pbi	ef15e62425f0fc86
+4705	5502	6660065802709184	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/stm32f7xx_it.pbi	8befe57decb85134
+4	516	6660066087199744	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/diskio.pbi	2787c4b7100a2b05
+6397	7115	6660065818836023	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma_ex.pbi	f1af219c39e8fb05
+922	1101	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/LIB/TFT_8080.xcl	c46e49eacfe157b9
+10165	10880	6660065856455356	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim_ex.pbi	c4557045dea3b095
+4806	5545	6660065803068223	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal.pbi	133b9ffee0ec4001
+5549	6308	6660065810767625	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_cortex.pbi	1b239b3da72dbfd1
+7037	7830	6660065825986900	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma.pbi	349c4a1159c64234
+9419	10160	6660065849284563	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash.pbi	7dae9fde30295c1
+2188	2371	6660065770000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi.xcl	111f4e48e02e5966
+7858	8610	6660065833786027	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_exti.pbi	58b18fe0afe3f58e
+2010	4920	6663746519405231	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+8689	9414	6660065841824522	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_gpio.pbi	6e9b4f0cc705d020
+9469	10218	6660065849872972	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc_ex.pbi	2584efdef72ad31b
+7833	8685	6660065834524084	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash_ex.pbi	c1cb99ceb951e932
+546	712	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/diskio.xcl	a6f2ae8956ee36d8
+10876	11750	6660065865191988	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc.pbi	8b49f3a468dd8412
+8614	9465	6660065842333162	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c.pbi	52564296b95c15f8
+11707	12447	6660065872153351	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr.pbi	c3d648401ea87db6
+13306	14122	6660065888928467	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part2.pbi	591e75785f12b72a
+5505	6394	6660065811625324	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/LIB/TFT_8080.pbi	d6521d5cdbddea29
+6	264	6607360300000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Penguins.xcl	bb879ea020ee8385
+13914	14425	6660065891960386	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part1.pbi	a0e4f6b9cc909f0a
+392	549	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/ff.xcl	6e3cf675298e1b74
+12521	13300	6660065880700496	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part3.pbi	26115972906b194a
+14130	14937	6660065897076672	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part4.pbi	5b9c931d83eb5416
+271	314	6607360305939823	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Penguins.pbi	83ffee91f0db9b6f
+911	1088	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/LIB/menu.xcl	3d9a4a8b9859eca
+3329	3495	6660065780000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi_ex.xcl	c8c05d6ac1a65cd2
+11754	12516	6660065872851835	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi.pbi	8f9dae4fd61ef3b2
+13068	13910	6660065886784202	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi_ex.pbi	6a9e309846c49aa7
+556	724	6660065750000000	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/sdcard/sdcard.xcl	ce34cc2f1e172e3f
+4490	4701	6660065794690642	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Drivers/fatf/ff.pbi	15a3976cf7fd755d
+14431	14923	6660065896937172	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part5.pbi	f10f1520bbed0da1
+4	916	6663747130751982	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+920	1614	6663747137745127	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+4	730	6663747198073545	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+737	3626	6663747226523970	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	821	6663747946822983	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+825	1498	6663747953621001	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+6	727	6663748015190933	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+735	3783	6663748045220961	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+5	936	6663748582471856	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+939	1726	6663748590391597	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+4	680	6663748704794397	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+683	1324	6663748711261509	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+4	721	6663748772376621	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+728	3396	6663748798616520	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+5	507	6663750813834566	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+510	1163	6663750820417900	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1170	1810	6663750826885897	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+4	799	6663750908519277	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+803	1611	6663750916658373	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1618	2378	6663750924332419	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+2386	5098	6663750951011408	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	477	6663752171665419	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+480	1099	6663752177912457	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1106	1709	6663752184013061	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+3	3017	6663752280922608	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	594	6663752573424791	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+599	1211	6663752579613026	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1220	1836	6663752585858783	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+6	3177	6663752684863610	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	492	6663753088074677	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+497	1113	6663753094307258	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1120	1728	6663753100464302	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+5	3063	6663753192530053	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	504	6663753764649236	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+508	1137	6663753770995249	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1145	1700	6663753776632318	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+4	3201	6663753875788249	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	698	6663754374181914	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+701	1356	6663754380795132	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+6	825	6663754441420327	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+833	3703	6663754469615796	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	483	6663755044680696	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+487	1168	6663755051561599	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+4	702	6663755111240800	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+710	3652	6663755140222421	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+5	501	6663755428892099	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+505	1089	6663755434792818	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1095	1742	6663755441317605	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+4	3162	6663755552059788	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+4	498	6663757019334009	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+502	1118	6663757025550524	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1125	1726	6663757031638055	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+4	3179	6663757129886712	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098
+5	491	6663757463215797	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/Application/User/Core/main.pbi	50490f2bdd654915
+495	1152	6663757469846273	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface_part0.pbi	7bc73f4d653b41e2
+1158	1727	6663757475608837	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbd	5dc55c2fcfadbc0b
+5	3054	6663757561897702	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/BrowseInfo/TFT 8080 interface.pbw	7a0a595a8a3be098

@@ -1,0 +1,32 @@
+# ninja log v5
+3718	4092	6663757390380692	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal.o	a0e459e3065433f7
+7566	7858	6663757428070802	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim.o	bb7afcd0d1e0f5f1
+795	4324	6663757392698176	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/fatf/ff.o	5d72122abf1dfb94
+9160	10572	6663757455157597	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi.o	ce190548b1c62b17
+9053	9367	6663757443139740	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_spi_ex.o	4f51297032a4c055
+4884	5409	6663757403545507	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash.o	edaf169137b01cf
+8	478	6663757354227306	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Application/User/Core/stm32f7xx_hal_msp.o	27c48629a3bf7491
+2	34	6663757349955270	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Application/EWARM/startup_stm32f767xx.o	66a8325565ede3f3
+10583	10748	6663757456932866	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Exe/TFT 8080 interface.out	cc41b4435ca63e96
+37	823	6663757357578330	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Application/User/Core/main.o	602856aa6855b22b
+487	785	6663757357309838	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Application/User/Core/stm32f7xx_it.o	ba8b96424c455462
+1452	1761	6663757367072970	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/CMSIS/system_stm32f7xx.o	efd2375df4fbdc3
+4102	4502	6663757394510405	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_cortex.o	a4073089fe0ebc90
+5420	6098	6663757410427395	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma.o	a2675c24ddb70733
+5673	6334	6663757412791705	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma_ex.o	4c5612f36fe8700f
+5163	5662	6663757406098709	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash_ex.o	eaa1c68089a4b887
+4512	4873	6663757398169915	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_exti.o	f5431b7fbce5846d
+6344	6853	6663757417987236	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_gpio.o	f248686d11c6e682
+6864	7197	6663757421437709	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c_ex.o	4f114bc97bd227ec
+7208	7555	6663757425018135	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr.o	6ee36e1c2c686cc6
+4335	5152	6663757400972405	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc.o	30547e98655118c1
+6108	6550	6663757414985243	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_pwr_ex.o	ca8129fb6baf13ad
+8753	9043	6663757439908361	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_tim_ex.o	9930ecb42e4f2b
+7868	8743	6663757436886421	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_rcc_ex.o	304f14b9658b95ce
+6561	9151	6663757440889524	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c.o	834d4c529ed402fe
+10779	10804	6663757457661456	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Exe/TFT 8080 interface.hex	ba5f3ff699b1394f
+2522	3149	6663757380966150	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/LIB/TFT_8080.o	4eec0a80fcd3ea75
+2091	2512	6663757374572961	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/LIB/menu.o	d7f0b539e650ea3e
+3160	3707	6663757386521285	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/sdcard/sdcard.o	4b4abe6ccefaebb2
+1771	2080	6663757370274443	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/fatf/diskio.o	6ad9ea74f73fe7f0
+833	1441	6663757363891475	D:/TEST/TFT 8080 interface/EWARM/TFT 8080 interface/Obj/Drivers/fatf/ffunicode.o	290f636fa53ebf7e
